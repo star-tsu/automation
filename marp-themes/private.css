@@ -1,0 +1,24 @@
+/* @theme private */
+
+@import 'gaia';
+
+section {
+    font-family: "Arial", "MeiryoUI";
+    font-size: 32px;
+    padding: 40px;
+}
+
+section.title h1 {
+    color: white;
+    font-family: "Arial", "Hiragino Kaku Gothic ProN";
+    font-size: 60px;
+    text-align: center;
+}
+
+section.title {
+    color: white;
+    font-family: "Arial", "Hiragino Maru Gothic ProN";
+    font-size: 36px;
+    text-align: center;
+    padding: 40px;
+}
